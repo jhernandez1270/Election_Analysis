@@ -50,4 +50,5 @@ The analysis of the election show that:
 ![Winning Candidate](Resources/winning_candidate.png)
 
 ## Summary
-In Summary, with a given data set and a few modifications, we are able to tailor this script to analyze not just local elections, but elections in the state and congressional levels.
+In Summary, with a given data set and a few modifications, we are able to tailor this script to analyze not just local state elections. It can de used to track a Gubernatorial and Presidential primaries elections. By adding lists of political party candidates and tracking which of the top candidates of the winning parties can move into the general election.
+
